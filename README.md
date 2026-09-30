@@ -1,1 +1,1 @@
-# IEEE_GRSS_multimodal_mobility_data
+# IEEE GRSS Workshop on Multimodal Mobility Data
